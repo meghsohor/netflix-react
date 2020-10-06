@@ -1,5 +1,4 @@
 {
-  "homepage": "https://meghsohor.github.io/netflix-react",
   "name": "netflix",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +18,8 @@
     "test": "react-scripts test --coverage --watchAll",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "serve": "node server.js"
   },
   "eslintConfig": {
     "extends": "react-app"
