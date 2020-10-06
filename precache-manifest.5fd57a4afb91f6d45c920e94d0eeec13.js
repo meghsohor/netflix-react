@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7d033bae64a36d3ad4532a4ac821ca3",
+    "revision": "01f715e48a3ec7bb1eabb1392e6e32a3",
     "url": "/netflix-react/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/netflix-react/static/js/2.8334188f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b9aba555d4330ab7cab1",
-    "url": "/netflix-react/static/js/main.00e23624.chunk.js"
+    "revision": "5494fa2632fb3fe5faef",
+    "url": "/netflix-react/static/js/main.d66e06b4.chunk.js"
   },
   {
     "revision": "70d043d93a53d0a22e89",
