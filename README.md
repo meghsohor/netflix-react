@@ -8,6 +8,7 @@
 ###  Powered by React & Firebase
 
 ####  Live: https://netflix-meghsohor.netlify.app/
+##### Login - Email: _shuvo@mail.com_ | Password: _123456_
 
 ####  Huge thanks to [Karl Hadwen](https://github.com/karlhadwen) for his great tutorial on YouTube: [Link](https://www.youtube.com/watch?v=x_EEwGe-a9o)
 
