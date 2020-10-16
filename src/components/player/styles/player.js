@@ -11,6 +11,8 @@ export const Outer = styled.div`
   left: 0;
   width: 100%;
   height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 20px;
 `;
 
 export const Overlay = styled.div`

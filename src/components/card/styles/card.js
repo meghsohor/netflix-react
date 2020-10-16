@@ -13,7 +13,6 @@ export const Container = styled.div`
   display: flex;
   flex-direction: column;
   margin-bottom: 50px;
-  box-sizing: border-box;
 
   > ${Title} {
     @media (max-width: 1000px) {

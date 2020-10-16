@@ -1,9 +1,9 @@
 
-  
 
-##  Netflix
 
-  
+##  Netflix    [![Netlify Status](https://api.netlify.com/api/v1/badges/a468f9ab-dcf5-48c0-8470-9845f0898f73/deploy-status)](https://app.netlify.com/sites/netflix-meghsohor/deploys)
+
+
 
 ###  Powered by React & Firebase
 
