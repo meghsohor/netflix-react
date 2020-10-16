@@ -12,8 +12,6 @@ const {
   REACT_APP_API_APP_ID,
 } = process.env;
 
-console.log(REACT_APP_API_KEY);
-
 const config = {
   apiKey: REACT_APP_API_KEY,
   authDomain: REACT_APP_API_DOMAIN,
