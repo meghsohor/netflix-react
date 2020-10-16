@@ -9,6 +9,7 @@ import { IsUserRedirect, ProtectedRoute } from './helpers/routes';
 import { Home, Browse, Signin, Signup } from './pages';
 
 export default function App() {
+  console.log(process.env);
   const { user } = useAuthListener();
 
   return (
