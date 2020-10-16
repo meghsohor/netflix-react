@@ -9,8 +9,10 @@ const {
   REACT_APP_API_PROJECT_ID,
   REACT_APP_API_STORAGE_BUCKET,
   REACT_APP_API_MSG_ID,
-  REACT_APP_API_APP_ID
+  REACT_APP_API_APP_ID,
 } = process.env;
+
+console.log(REACT_APP_API_KEY);
 
 const config = {
   apiKey: REACT_APP_API_KEY,
